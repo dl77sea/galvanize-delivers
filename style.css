@@ -1,0 +1,18 @@
+header {
+  background-image: url("img/hero.jpg");
+  height: 450px;
+  flex-direction: column;
+  justify-content: center; /*vertically centers*/
+}
+
+.brand-logo {
+  margin-left: 10px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+i {
+  vertical-align: bottom;
+}
